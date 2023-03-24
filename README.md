@@ -6,6 +6,6 @@ Phân tích bán hàng đang khai thác dữ liệu của bạn để đánh gi�
 - Quantity Ordered - Ordered Quantity is the total item quantity ordered in the initial order (without any changes).
 - Price Each - The price of each products.
 - Order Date - This is the date the customer is requesting the order be shipped.
-- Purchase Address - The purchase order is prepared by the buyer, often through a purchasing department. The purchase order, or PO, usually includes a PO number, which is useful in matching shipments with purchases; a shipping date; billing address; shipping address; and the request items, quantities and price.
-
+- Purchase Address - The purchase order is prepared by the buyer, often through a purchasing department. The purchase order, or PO, usually includes a PO number, which is useful in matching shipments with purchases; a shipping date; billing address; shipping address; and the request items, quantities and price.  
+![doanh thu theo tháng](https://github.com/huyvu15/Sales_data_analysis/blob/master/price_each_month.png)
 ![minh họa](https://github.com/huyvu15/Sales_data_analysis/blob/master/results.png)
